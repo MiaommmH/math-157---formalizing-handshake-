@@ -1,0 +1,7 @@
+# cache and other artifacts produced by Lean's Lake build tool
+# Lean 4 / Lake ignores
+.lake/
+*.olean
+*.ilean
+*.trace
+build/
